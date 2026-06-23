@@ -29,6 +29,14 @@ The system aims to reduce manual effort, improve accessibility, and provide a fa
 
 ---
 
+<h2>System Architecture</h2>
+
+<p align="center">
+  <img src="assets/architecture.png" width="900">
+</p>
+
+---
+
 # 🏗️ System Overview
 
 ASHA is an AI-powered voice-based hospital appointment assistant built using Vapi, FastAPI, SQLAlchemy, and SQLite. The system allows patients to interact using voice commands while the backend handles appointment scheduling and database operations.
@@ -142,15 +150,6 @@ ASHA is an AI-powered voice-based hospital appointment assistant built using Vap
           ▼
 9. Patient Receives Response
 ```
-
----
-
-<h2>System Architecture</h2>
-
-<p align="center">
-  <img src="assets/architecture.png" width="900">
-</p>
-
 ---
 
 # ✨ Features
