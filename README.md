@@ -4,6 +4,14 @@
 
 Traditional hospital appointment booking systems are often inefficient, time-consuming, and inaccessible for many patients. Patients frequently encounter long waiting times, busy phone lines, manual booking errors, and limited access to appointment information. Hospital staff spend significant time managing appointment requests, leading to increased operational workload and reduced efficiency.
 
+## Live Demo
+
+Backend API:
+https://asha-voice-based-appointment-system.onrender.com
+
+Swagger Docs:
+https://asha-voice-based-appointment-system.onrender.com/docs
+
 ### Challenges in Traditional Systems
 
 - Long waiting times on calls and at reception desks
